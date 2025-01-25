@@ -1,4 +1,4 @@
-Apprenez à créer un jeu du serpent en Java en utilisant les bibliothèques graphiques AWT et Swing.
+ jeu du serpent en Java en utilisant les bibliothèques graphiques AWT et Swing.
 
 
 Créer une interface graphique (GUI) pour afficher le jeu du serpent.
